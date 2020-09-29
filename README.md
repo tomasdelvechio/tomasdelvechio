@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 
 - 🔭 I’m currently working on UNLu (like Full Web Dev and Assistant Teacher)
-- 🌱 I’m currently learning 🐳 Docker
+- 🌱 I’m currently learning 🐳 Docker, Compose and Kubernetes
 - ✍️ Occasionally, I write some thoughts on [my Blog](http://tomasdelvechio.github.io/blog/) (Spanish Only for now)
 - ✉️ You can write me to tdelvechio@unlu.edu.ar or tomasdelvechio17+github@gmail.com
 - 👷 I'm currently open for Job Proposals in Web Dev (Senior) or DevOps (Junior). See my tech skill below!
