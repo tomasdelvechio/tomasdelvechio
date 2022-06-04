@@ -15,8 +15,11 @@
 ### Get in touch
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/tomasdelvechio?label=Follow%20me%21&style=social" alt="Follow Me on GitHub" />
-  <img src="https://img.shields.io/twitter/url?label=Follow%20Me%20on%20Tw&style=social&url=https%3A%2F%2Ftwitter.com%2Ftdelvechio" alt="Follow Me on Twitter" />
+  <a href="https://github.com/tomasdelvechio" target="__blank">
+  <img src="https://img.shields.io/github/followers/tomasdelvechio?label=Follow%20me%21&style=social" alt="Follow Me on GitHub" /></a>
+  <!--img src="https://img.shields.io/twitter/url?label=Follow%20Me%20on%20Tw&style=social&url=https%3A%2F%2Ftwitter.com%2Ftdelvechio" alt="Follow Me on Twitter" /-->
+  <a href="https://twitter.com/tdelvechio" target="__blank">
+  <img src="https://img.shields.io/twitter/follow/tdelvechio?label=Tweet%20me%21&style=social" alt="Follow Me on Twitter" /></a>
 </p>
 
 
