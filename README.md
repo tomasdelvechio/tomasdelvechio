@@ -10,7 +10,7 @@
 
 ### ⚙️ My GitHub stats
 
-[![Tomás github stats]([https://github-readme-stats.vercel.app/api?username=tomasdelvechio&count_private=true&show_icons=true&theme=solarized-dark](https://github-readme-stats-opal-one-21.vercel.app/api?username=tomasdelvechio&count_private=true&show_icons=true&theme=solarized-dark))](https://github.com/tomasdelvechio)
+[![Tomás github stats](https://github-readme-stats-opal-one-21.vercel.app/api?username=tomasdelvechio&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/tomasdelvechio)
 
 ### Get in touch
 
